@@ -1,0 +1,594 @@
+/*///////// FONTS /////////*/
+
+@font-face {
+    font-family: 'Univers-Bold';
+    src: url('fonts/Univers-Bold.eot');
+    src: url('fonts/Univers-Bold.ttf');
+    format('truetype');
+}
+
+@font-face {
+    font-family: 'Univers-Light';
+    src: url('fonts/Univers-Light.eot');
+    src: url('fonts/Univers-Light.ttf');
+    format('truetype');
+}
+
+@font-face {
+    font-family: 'Univers';
+    src: url('fonts/Univers.eot');
+    src: url('fonts/Univers.ttf');
+    format('truetype');
+}
+
+
+/*///////// RESET + GENERAL /////////*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden
+}
+
+
+/* div {
+    border: red 1px solid;
+} */
+
+.body-home {
+    background-color: #3939c9;
+    width: 100%;
+}
+
+
+/*///////// H1 /////////*/
+
+h1 {
+    font-family: 'Univers-Light';
+    font-size: 2.25em;
+}
+
+@media only screen and (max-width: 768px) {
+    h1 {
+        font-size: 2em;
+        line-height: 1.375em;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    h1 {
+        font-size: 2.35em;
+        line-height: 1.275em;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    h1 {
+        font-size: 2.75em;
+        line-height: 1.25em;
+    }
+}
+
+
+/*///////// H3 /////////*/
+
+h3 {
+    font-family: 'Univers-Light';
+}
+
+@media only screen and (max-width: 768px) {
+    h3 {
+        font-size: 1.45em;
+        line-height: 1.275em;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    h3 {
+        font-size: 1.55em;
+        line-height: 1.3em;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    h3 {
+        font-size: 1.85em;
+        line-height: 1.5em;
+    }
+}
+
+
+/*///////// H4 /////////*/
+
+h4 {
+    font-family: 'Univers';
+}
+
+@media only screen and (max-width: 768px) {
+    h4 {
+        font-size: 1.1em;
+        line-height: 1.4em;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    h4 {
+        font-size: 1.2em;
+        line-height: 1.45em;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    h4 {
+        font-size: 1.425em;
+        line-height: 1.55em;
+    }
+}
+
+
+/*///////// NAVBAR /////////*/
+
+.logo-img {
+    width: 6em;
+}
+
+@media only screen and (max-width: 992px) {
+    .logo-container {
+        padding-bottom: 2%;
+    }
+}
+
+.nav-container {
+    margin: 4%;
+}
+
+.nav-p {
+    font-family: 'Univers';
+    color: #d7e2f9;
+    text-align: right;
+    font-size: 1em;
+    letter-spacing: 0.01em;
+}
+
+.nav-p>a,
+.nav-p>a:active,
+.nav-p>a:visited {
+    color: #d7e2f9;
+    text-decoration: none;
+}
+
+.nav-p>a:hover {
+    color: #d7e2f966;
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 992px) {
+    .nav-p {
+        text-align: left;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .nav-p {
+        text-align: right;
+    }
+}
+
+.logo-img:hover {
+    opacity: 0.3;
+}
+
+
+/*/////////////////~/~/~/~/~/~/~/~/~/HOME PAGE/~/~/~/~/~/~/~/~/~/////////////////*/
+
+
+/*///////// HEADER SECTION /////////*/
+
+.header-container {
+    background-color: #3939c9;
+    padding: 10% 4% 15% 4%;
+}
+
+.header-img {
+    width: 100%;
+    padding: 1%;
+}
+
+.header-h1 {
+    color: #d7e2f9;
+}
+
+
+/*///////// ABOUT SECTION /////////*/
+
+.about-container {
+    background-color: #d7e2f9;
+    padding: 8% 4%;
+}
+
+.about-div {
+    padding: 2% 0%;
+}
+
+.about-h4 {
+    color: #081182;
+}
+
+.about-h1 {
+    color: #405ef4;
+}
+
+
+/*///////// OPPORTUNITY SECTION /////////*/
+
+.opp-container {
+    background-color: #405ef4;
+    padding: 8% 4%;
+}
+
+.opp-div {
+    padding: 2% 0%;
+}
+
+.opp-h4 {
+    color: #d7e2f9;
+}
+
+.opp-h1 {
+    color: #081182;
+}
+
+
+/*///////// BOTTOM SECTION /////////*/
+
+.home-bottom-container {
+    background-color: #405ef4;
+    padding: 0%;
+    width: 110%;
+}
+
+.bottom-div-img {
+    position: relative;
+    float: left;
+    left: -5vw;
+}
+
+.bottom-img {
+    width: 110%;
+}
+
+
+/*/////////////////~/~/~/~/~/~/~/~/~/FACILITIES PAGE/~/~/~/~/~/~/~/~/~/////////////////*/
+
+.body-facilities {
+    background-color: #405ef4;
+}
+
+
+/*/////////////HEADER///////////*/
+
+.mini-header-container {
+    background-color: #405ef4;
+    top: 0;
+    z-index: -1;
+    position: relative;
+}
+
+.mini-header-pattern {
+    width: 100%;
+}
+
+.mini-header-h1 {
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+
+/*////////////INHOUSE CAPABILITIES///////////*/
+
+.inhouse-container {
+    background-color: white;
+    padding: 6% 6% 3% 6%;
+}
+
+.title-div {
+    padding: 3% 0% 4% 0%;
+}
+
+.inhouse-equipment-container {
+    border-bottom: 1px solid #405ef4;
+}
+
+.inhouse-div {
+    padding: 4% 0%;
+}
+
+.inhouse-h3,
+.shared-h3 {
+    color: #081182;
+}
+
+.inhouse-h1 {
+    color: #405ef4;
+    padding: 0;
+    margin-left: 0;
+}
+
+.inhouse-img {
+    width: 90%;
+    float: right;
+}
+
+.inhouse-p {
+    margin-top: 10%;
+    color: #9bb4f9;
+    letter-spacing: 0.04px;
+    font-family: "Univers-Bold";
+}
+
+.read-more-p {
+    margin-top: 3%;
+    color: #9bb4f9;
+    letter-spacing: 0.04px;
+    font-family: "Univers-Bold";
+}
+
+.shared-facilities-container {
+    background-color: white;
+    padding: 2% 6% 2% 6%;
+}
+
+.shared-equipment-container {
+    padding: 0;
+}
+
+.shared-img {
+    width: 100%;
+    float: left;
+}
+
+.shared-text-div {
+    padding: 4% 0;
+}
+
+
+/*/////////////////~/~/~/~/~/~/~/~/~/PEOPLE PAGE/~/~/~/~/~/~/~/~/~/////////////////*/
+
+.body-people {
+    background-color: #405ef4;
+}
+
+.profile-img {
+    width: 100%;
+    padding: 0% 0% 4% 0%;
+}
+
+.people-container {
+    background-color: white;
+    padding: 6% 6% 3% 6%;
+}
+
+.people-single-container {
+    border-bottom: 1px solid #405ef4;
+    padding: 4% 0%;
+}
+
+.people-h1 {
+    color: #405ef4;
+}
+
+.people-text-div {
+    padding: 0;
+}
+
+.people-img-div {
+    padding: 0% 0% 4% 4%;
+    margin: 0;
+}
+
+.profile-div {
+    padding-top: 4%;
+}
+
+.profile-title {
+    font-family: 'Univers-Bold';
+    color: #081182;
+    line-height: 1.5em;
+}
+
+.under-title-hr {
+    width: 2vw;
+    color: #9bb4f9;
+    border: 2px solid #9bb4f9;
+}
+
+.profile-bio {
+    font-family: 'Univers';
+    color: #081182;
+    line-height: 1.5em;
+}
+
+.undergrad-container {
+    border: none;
+}
+
+
+/*/////////////////~/~/~/~/~/~/~/~/~/RESEARCH/~/~/~/~/~/~/~/~/~/////////////////*/
+
+.body-research {
+    background-color: #405ef4;
+}
+
+.lab-research-container {
+    background-color: white;
+    padding: 6% 6% 3% 6%;
+}
+
+.lab-research-div {
+    padding: 2% 0%;
+}
+
+.lab-research-h4 {
+    color: #081182;
+}
+
+.lab-research-h1 {
+    color: #405ef4;
+}
+
+.research-diagram-div {
+    background-color: #ebeff7;
+}
+
+.research-diagram-illos {
+    width: 100%;
+    padding: 4% 2%;
+}
+
+.collaborator-container {
+    background-color: white;
+    padding: 8% 6%;
+}
+
+.collaborator-div {
+    padding: 0;
+}
+
+.collaborator-name {
+    color: #081182;
+    padding-bottom: 8%;
+}
+
+
+/*/////////////////~/~/~/~/~/~/~/~/~/VISIT /~/~/~/~/~/~/~/~/~/////////////////*/
+
+.body-contact {
+    background-color: #405ef4;
+}
+
+.visit-container {
+    background-color: white;
+    padding: 8% 6%;
+}
+
+.visit-div {
+    padding: 2% 0%;
+}
+
+.visit-h1 {
+    color: #405ef4;
+    padding-bottom: 10%;
+}
+
+.visit-h4 {
+    color: #081182;
+    padding-bottom: 10%;
+}
+
+#gmap_canvas {
+    width: 100%;
+    height: 600px;
+    /* height: 400px; */
+    background-color: #ebeff7;
+    border: none;
+}
+
+.visit-text-div {
+    padding-bottom: 15%;
+}
+
+
+/*/////////////////~/~/~/~/~/~/~/~/~/ PUBLICATIONS & TALK /~/~/~/~/~/~/~/~/~/////////////////*/
+
+.body-publications {
+    background-color: #405ef4;
+    margin: 0;
+    padding: 0;
+}
+
+.filter-p {
+    color: #9bb4f9;
+    font-family: 'Univers-Bold';
+    font-size: 1.05em;
+    letter-spacing: 0.01em;
+}
+
+.filter-container {
+    background-color: #ebeff7;
+    padding: 4% 4%;
+}
+
+.selection-link {
+    color: #3939c9;
+}
+
+.main-publications-container {
+    padding: 0;
+    margin: 0;
+    background-color: white;
+    padding: 5% 4%;
+}
+
+.publications-container {
+    border-bottom: 1px solid #405ef4;
+    padding: 5% 0% 2% 0%;
+    margin: 0;
+}
+
+#patents-container {
+    border-bottom: none;
+}
+
+.publications-div-h1 {
+    color: #405ef4;
+    padding: 0;
+}
+
+.publications-text-div {
+    color: #081182;
+}
+
+.publications-text-div {
+    font-size: 0.925em;
+    line-height: 1.75em;
+}
+
+.publications-list>li {
+    padding-bottom: 4%;
+    list-style-position: inside;
+}
+
+
+/*/////////////////~/~/~/~/~/~/~/~/~/ FOOTER /~/~/~/~/~/~/~/~/~/////////////////*/
+
+.footer-container {
+    background-color: #081182;
+    padding: 2% 6% 5% 6%;
+}
+
+.footer-div {
+    padding: 2% 0%;
+}
+
+.footer-p {
+    color: #9bb4f9;
+}
+
+.opp-h1 {
+    color: #081182;
+}
+
+.footer-p>a {
+    color: #9bb4f9;
+    text-decoration: none;
+}
+
+.footer-p>a:hover {
+    color: #405ef4;
+    text-decoration: none;
+}
