@@ -107,22 +107,22 @@ h4 {
 
 @media only screen and (max-width: 768px) {
     h4 {
-        font-size: 1.1em;
-        line-height: 1.4em;
+        font-size: 1em;
+        line-height: 1.25em;
     }
 }
 
 @media only screen and (min-width: 768px) {
     h4 {
-        font-size: 1.2em;
+        font-size: 1.15em;
         line-height: 1.45em;
     }
 }
 
 @media only screen and (min-width: 992px) {
     h4 {
-        font-size: 1.425em;
-        line-height: 1.55em;
+        font-size: 1.4em;
+        line-height: 1.575em;
     }
 }
 
