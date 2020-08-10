@@ -12,7 +12,7 @@ Mayer, W.; Thompson, J.P.; Dartiailh, M.C.; **Sardashti, K.**; Barati, F.; Wickr
 
 Cuniberto, E.; Alharbi, A.; Wu, T.; Huang, Z.; **Sardashti, K.**; You. K. D.; Kisslinger, K.; Taniguchi, T.; Watanabe, K.; Kiani, R.; Shahrjerdi, D. “Design and fabrication of miniaturized electrochemical sensors using nano-graphitic carbon”, Scientific Reports 10, 9444 (2020).
 
-Yuan, J.; Hatefipour, M.; Mayer, W.; Dartiailh, M.C.; **Sardashti, K.**; Wickramasinghe, K.S.; Lu, T.M.; Magill, B.A.; Khodaparast, G.A.; Matsuda, Y.H.; Kohama, Y.; Yang, Z.; Thapa, S.; Stanton, C.J.; Shabani, J. “Experimental Measurements and Modeling of Electron Effective Mass and Effective g-Factor in Near Surface InAs Quantum Wells”, Physical Review B 101, 20 (2020).
+Yuan, J.; Hatefipour, M.; Magill, B.A.; Mayer, W.; Dartiailh, M.C.; **Sardashti, K.**; Wickramasinghe, K.S.; Lu, T.M.; Khodaparast, G.A.; Matsuda, Y.H.; Kohama, Y.; Yang, Z.; Thapa, S.; Stanton, C.J.; Shabani, J. “Experimental Measurements and Modeling of Electron Effective Mass and Effective g-Factor in Near Surface InAs Quantum Wells”, Physical Review B 101, 20 (2020).
 
 Khazaee M.; **Sardashti, K.**; Chung, C; Sun, JP; Zhou, H; Bergmann, E; Dunlap-Shohl, W.A.; Han, Q; Hill, I.G.; Jones, J.L; Lupascu, D.C.; Mitzi, D.B. “Dual-Source Evaporation of Silver Bismuth Iodide Films for Planar Junction Solar Cells”, Journal of Materials Chemistry A 7 (2019).
 
