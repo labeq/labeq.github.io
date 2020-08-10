@@ -1,5 +1,5 @@
 ---
-title: Publications and Talks
+title: Publications
 layout: default
 ---
 
@@ -31,27 +31,28 @@ layout: default
 
     <div class="main-publications-container">
         <!--JOURNAL ARTICLES-->
+
         <div class="publications-container row justify-content-between">
+           
             <div class='publications-div-h1 col-md-5'>
-                <h1>{{ publication.title }}</h1>
+                <h1>Journal Papers</h1>
             </div>
 
             <div class='publications-text-div col-md-7'>
 
-                <ol class='publications-list'>
-                    {% for publication in site.publications %}
-                    <li>
-                        {{ publication.content }}
-                    </li>
-                    {% endfor %}
-                </ol>
+                {% for journal in site.publications %}
+                <div class='publications-list'>
+                    {{ journal.content }}
+                </div>
+                {% endfor %}
             </div>
+           
         </div>
 
         <!--CONFERENCE PROCEEDINGS-->
         <div class="publications-container row justify-content-between">
             <div class='publications-div-h1 col-md-5'>
-                <h1>Conference<br>Proceedings</h1>
+                <h1>Conference Proceedings</h1>
             </div>
 
             <div class='publications-text-div col-md-7'>
