@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# LaBEQ... online!
 
-You can use the [editor on GitHub](https://github.com/labeq/online/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Instructions for local deployment:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Install Ruby
 
-### Markdown
+If you don't have Ruby installed on your computer, run `brew install ruby` on Terminal. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Next, you'll need to update your Ruby file path to the version you just installed. (To check what version, run `ruby -v`). Update by changing the **X.X** to the version number: 
 
-```markdown
-Syntax highlighted code block
+`echo 'export PATH="$HOME/.gem/ruby/X.X.0/bin:$PATH"' >> ~/.bash_profile`
 
-# Header 1
-## Header 2
-### Header 3
+### Install Bundler
 
-- Bulleted
-- List
+Then, we want to install **Bundler**, which helps us manage our Ruby environment and work with gems like Jekyll. (If you're more familiar with Python, it seems to play a similar role as **conda**, which helps you manage environments as well as installed packages.) At this point, you should be able to run this: 
 
-1. Numbered
-2. List
+`gem install --user-install bundler`
 
-**Bold** and _Italic_ and `Code` text
+But, depending on your operating system, it might fail and you can run this instead: 
 
-[Link](url) and ![Image](src)
-```
+`sudo gem install bundler`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Build & Serve This Project! 
 
-### Jekyll Themes
+Then, navigate into this directory and run `bundle install`. This will install all the gems you need for our particular project. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/labeq/online/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Finally, when you are ready to serve locally, run: `bundle exec jekyll serve`. The site will deploy to `http://127.0.0.1:4000`. 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Learned all this from [Jekyll Docs 🎉](https://jekyllrb.com/docs/installation/macos/). 
