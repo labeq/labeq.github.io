@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications and Talks
 layout: default
 ---
 
@@ -11,21 +11,19 @@ layout: default
     {% include header.html %}
 
     <!--FILTER BY-->
-    <div class="filter-container row justify-content-left">
+    <!-- <div class="filter-container row justify-content-left">
         <div class='filter-div col-md-12'>
             <p class="filter-p">Filter By:</p>
         </div>
 
-        <!--SELECTIONS: PUBLICATIONS-->
         <div class='selection-link col-md-5'>
             <h1>Publications</h1>
         </div>
 
-        <!--SELECTIONS: PUBLICATIONS-->
         <div class='selection-link col-md-5'>
             <h1>Talks</h1>
         </div>
-    </div>
+    </div> -->
 
     <!--ALL PUBLICATIONS-->
 
@@ -35,11 +33,11 @@ layout: default
         {% for publication in site.publications %}
         <div class="publications-container row justify-content-between">
 
-            <div class='publications-div-h1 col-md-5'>
+            <div class='publications-div-h1 col-md-4'>
                 <h1>{{ publication.title }}</h1>
             </div>
 
-            <div class='publications-text-div col-md-7'>
+            <div class='publications-text-div col-md-8'>
                 {{ publication.content }}
             </div>
         </div>
