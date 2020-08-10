@@ -103,21 +103,21 @@ h4 {
 @media only screen and (max-width: 768px) {
     h4 {
         font-size: 1em;
-        line-height: 1.25em;
+        line-height: 1.35em;
     }
 }
 
 @media only screen and (min-width: 768px) {
     h4 {
         font-size: 1em;
-        line-height: 1.35em;
+        line-height: 1.475em;
     }
 }
 
 @media only screen and (min-width: 992px) {
     h4 {
-        font-size: 1.2em;
-        line-height: 1.475em;
+        font-size: 1.175em;
+        line-height: 1.675em;
     }
 }
 
@@ -130,14 +130,14 @@ h5 {
 @media only screen and (max-width: 768px) {
     h5 {
         font-size: 0.8em;
-        line-height: 1em;
+        line-height: 1.2em;
     }
 }
 
 @media only screen and (min-width: 768px) {
     h5 {
         font-size: 0.9em;
-        line-height: 1.15em;
+        line-height: 1.35em;
     }
 }
 
@@ -481,7 +481,7 @@ h5 {
 
 .collaborator-container {
     background-color: white;
-    padding: 8% 6%;
+    padding: 4% 6%;
 }
 
 .collaborator-div {
@@ -490,7 +490,7 @@ h5 {
 
 .collaborator-name {
     color: #081182;
-    padding-bottom: 8%;
+    padding-bottom: 6%;
 }
 
 /*/////////////////~/~/~/~/~/~/~/~/~/VISIT /~/~/~/~/~/~/~/~/~/////////////////*/
