@@ -171,7 +171,7 @@ h5 {
 .nav-container {
     padding: 4%;
     margin: 0%;
-    background-color: #405ef4;
+    /* background-color: #405ef4; */
 }
 
 .nav-p {
@@ -596,7 +596,7 @@ h5 {
 /*///////// FOOTER P /////////*/
 
 .footer-p {
-    font-family: 'Univers-Light';
+    font-family: 'Univers';
 }
 
 @media only screen and (max-width: 768px) {
