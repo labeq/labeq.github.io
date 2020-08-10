@@ -33,123 +33,17 @@ layout: default
         <!--JOURNAL ARTICLES-->
         <div class="publications-container row justify-content-between">
             <div class='publications-div-h1 col-md-5'>
-                <h1>Journal Articles</h1>
+                <h1>{{ publication.title }}</h1>
             </div>
 
             <div class='publications-text-div col-md-7'>
+
                 <ol class='publications-list'>
-                    <li><b>Sardashti, K.</b>; Nguyen, D.T.; Dartiailh, M.C.; Shabani, J. “Superconducting Phases in
-                        Hyper P-doped Germanium”, <i>in preparation.</i>
-                    </li>
-
-                    <li><b>Sardashti, K.</b>; Nguyen, D.T.; Mayer, W.; Yuan, J.; Dartiailh, M.C.; Shabani, J.
-                        “Superconductivity in hyper Ga–doped Silicon: Effect of implantation and anneal conditions on
-                        the superconducting phases”, <i>in preparation.</i>
-                    </li>
-
-                    <li>Mayer, W.; Thompson, J.P.; Dartiailh, M.C.; <b>Sardashti, K.</b>; Barati, F.; Wickramasinghe,
-                        K.; Taniguchi, T.; Watanabe, K.; Churchill, H.; Shabani, J. “Tuning supercurrent in Josephson
-                        junctions using hBN as the gate dielectric”,
-                        <i>in preparation.</i>
-                    </li>
-
+                    {% for publication in site.publications %}
                     <li>
-                        <b>Sardashti, K.</b>; Dartiailh, M.C.; Yuan, Joseph.; Hart, Sean.; Gumann, Pat.; Shabani, J.
-                        “Voltage Voltage-tunable superconducting resonators: a platform for random access quantum
-                        memory”, <i>submitted to</i> <b>IEEE Transactions on Quantum
-                            Engineering</b>, <i>preprint available on arXiv.</i>
+                        {{ publication.content }}
                     </li>
-
-                    <li>
-                        Cuniberto, E.; Alharbi, A.; Wu, T.; Huang, Z.; <b>Sardashti, K.</b>; You. K. D.; Kisslinger, K.;
-                        Taniguchi, T.; Watanabe, K.; Kiani, R.; Shahrjerdi, D. “Design and fabrication of miniaturized
-                        electrochemical sensors using nano-graphitic
-                        carbon”, <b><i>Scientific Reports</i></b> 10, 9444 (2020).
-                    </li>
-
-                    <li>
-                        Yuan, J.; Hatefipour, M.; Mayer, W.; Dartiailh, M.C.; <b>Sardashti, K.</b>; Wickramasinghe,
-                        K.S.; Lu, T.M.; Magill, B.A.; Khodaparast, G.A.; Matsuda, Y.H.; Kohama, Y.; Yang, Z.; Thapa, S.;
-                        Stanton, C.J.; Shabani, J. “Experimental
-                        Measurements and Modeling of Electron Effective Mass and Effective g-Factor in Near Surface InAs
-                        Quantum Wells”, <b><i>Physical Review B</i></b> 101, 20 (2020).
-                    </li>
-
-                    <li>
-                        Khazaee M.; <b>Sardashti, K.</b>; Chung, C; Sun, JP; Zhou, H; Bergmann, E; Dunlap-Shohl, W.A.;
-                        Han, Q; Hill, I.G.; Jones, J.L; Lupascu, D.C.; Mitzi, D.B. “Dual-Source Evaporation of Silver
-                        Bismuth Iodide Films for Planar Junction
-                        Solar Cells”, <b><i>Journal of Materials Chemistry A</i></b> 7 (2019).
-                    </li>
-
-                    <li>
-                        Iljo, <b>K; Sardashti, K</b>; Clemons, M.S.; Ueda, S.T.; Fruhberger, B.; Oktyabrsky, S; Kummel,
-                        A.C. “HfO2/Al2O3 Nanolaminate on Si0.7Ge0.3(100) Surface by Thermal Atomic Layer Deposition”,
-                        <b><i>ECS Transactions</i></b> 86, 7,
-                        (2018).
-                    </li>
-
-                    <li>
-                        Khazaee, M.; <b>Sardashti, K.</b>; Sun, J.P.; Clegg, C.; Zhou, H.; Hill, I.G.; Jones, J.L.;
-                        Lupascu, D.C.; Mitzi, D.B. “A Versatile Thin-Film Deposition Method for Multidimensional
-                        Semiconducting Bismuth Halides”, <i><b>Chemistry of Materials</b> 30 (2018).</i>
-                    </li>
-
-                    <li>
-                        Wolf S.; Edmonds M.; <b>Sardashti, K.</b>; Clemons M.S.; Park J.H.; Yoshida N.; Dong L.; Nemani
-                        S.; Yieh E.; Holmes R.; Alvarez D.; Kummel A.C. “Low-Temperature Amorphous Boron Nitride on
-                        Si0.7Ge0.3(001), Cu, and HOPG from Sequential
-                        Exposures of N2H4 and BCl3”, <i><b>Applied Surface Science</b> 439 (2018).</i>
-                    </li>
-
-                    <li>
-                        <b>Sardashti, K.</b>; Chagarov E.; Antunez, P.; Gershon, T.; Ueda, S.T.; Gokmen, T.; Bishop, D.;
-                        Haight R.; Kummel A.C. “Potential Control Layers for Engineering the Backside Surfaces of
-                        Thin-Film Solar Cells”, <i><b>ACS Applied Materials & Interfaces</b></i> 9 <i>(2017).</i>
-                    </li>
-
-                    <li>
-                        Gershon, T.*; <b>Sardashti, K.*</b>; Lee, Y.S.; Gunawan, O.; Singh, S.; Bishop, D.; Kummel A.C.;
-                        Haight R. “Compositional effects in Ag2ZnSnSe4 thin films and photovoltaic device”, <i><b>>Acta
-                                Materialia</b></i> 126 <i>(2017). </i>(*
-                        equal contribution).
-                    </li>
-
-                    <li>
-                        Edmonds M.; <b>Sardashti, K.</b>; Wolf S.; Chagarov E.; Clemons M.S.; Kent T.; Park J.; Tang K.;
-                        McIntyre P.C.; Yoshida N.; Dong L.; Tsai W.; Luan H.; Fang Z.; Holmes R.; Alvarez D.; Kummel
-                        A.C. “Low Temperature Thermal ALD of
-                        a SiNx Interfacial Diffusion Barrier and Interface Passivation Layer on SixGe1-x(001) and
-                        SixGe1-x (110)”, <i><b>Journal of Chemical Physics</b></i> 146 (2017).
-                    </li>
-
-                    <li>
-                        Haight, R.; Gershon, T.; Gunawan, O.; Antunez, P.; Bishop, D.; Lee, Y.S.; Gokmen, T.;
-                        <b>Sardashti, K.</b>; Chagarov E.; Kummel A.C. “Industrial perspectives on earth abundant,
-                        multinary thin film photovoltaics”, <i><b>Semiconductor
-                                Science and Technology</b></i> 32 <i>(2017).</i>
-                    </li>
-
-                    <li>
-                        <b>Sardashti, K.</b>; Paul, D.; Hitzman, C.; Hammond, J.; Haight R.; Kummel A.C. “Nano-scale
-                        Compositional Analysis of Surfaces and Interfaces in Earth-abundant Kesterite Solar Cells”,
-                        <i><b>Journal of Materials Research (invited feature
-                                paper)</b></i> 31 (2016).
-                    </li>
-
-                    <li>
-                        <b>Sardashti, K.</b>; Haight R.; Anderson R.; Contreras M.; Fruhberger B.; Kummel A.C. “Grazing
-                        Incidence Cross-sectioning of Thin-Film Solar Cells via Cryogenic Focused Ion Beam: A case study
-                        on CIGSe", <i><b>ACS Applied Materials &
-                                Interfaces</b></i> 8 (2016).
-                    </li>
-
-                    <li>
-                        <b>Sardashti K.</b>; Hu, K.T.; Tang, K.; Madisetti S.; McIntyre, P.C.; Oktyabrsky, S; Siddiqui,
-                        S.; Sahu, B.; Yoshida, N.; Kachian, J.; Kummel A.C. “Silicon-nitride passivation of the
-                        interface between SiGe and high-k dielectrics”,
-                        <i><b>Applied Physics Letters</b></i> 108 (2016).
-                    </li>
+                    {% endfor %}
                 </ol>
             </div>
         </div>
