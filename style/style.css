@@ -42,7 +42,7 @@
 /*///////// H1 /////////*/
 
 h1 {
-    font-family: 'Univers-Light';
+    font-family: 'Univers-Light', Helvetica, sans-serif;
     font-size: 2.25em;
 }
 
@@ -70,7 +70,7 @@ h1 {
 /*///////// H3 /////////*/
 
 h3 {
-    font-family: 'Univers-Light';
+    font-family: 'Univers-Light', Helvetica, sans-serif;
 }
 
 @media only screen and (max-width: 768px) {
@@ -97,7 +97,7 @@ h3 {
 /*///////// H4 /////////*/
 
 h4 {
-    font-family: 'Univers';
+    font-family: 'Univers', Helvetica, sans-serif;
 }
 
 @media only screen and (max-width: 768px) {
@@ -124,7 +124,7 @@ h4 {
 /*///////// H5 /////////*/
 
 h5 {
-    font-family: 'Univers';
+    font-family: 'Univers', Helvetica, sans-serif;
 }
 
 @media only screen and (max-width: 768px) {
@@ -175,7 +175,7 @@ h5 {
 }
 
 .nav-p {
-    font-family: 'Univers';
+    font-family: 'Univers', Helvetica, sans-serif;
     color: #d7e2f9;
     text-align: right;
     font-size: 1em;
@@ -348,14 +348,14 @@ h5 {
     margin-top: 10%;
     color: #9bb4f9;
     letter-spacing: 0.04px;
-    font-family: "Univers-Bold";
+    font-family: "Univers-Bold", Helvetica, sans-serif;
 }
 
 .read-more-p {
     margin-top: 3%;
     color: #9bb4f9;
     letter-spacing: 0.04px;
-    font-family: "Univers-Bold";
+    font-family: "Univers-Bold", Helvetica, sans-serif;
 }
 
 .shared-facilities-container {
@@ -415,7 +415,7 @@ h5 {
 }
 
 .profile-title {
-    font-family: 'Univers-Bold';
+    font-family: 'Univers-Bold', Helvetica, sans-serif;
     color: #081182;
     line-height: 1.5em;
 }
@@ -427,7 +427,7 @@ h5 {
 }
 
 .profile-bio {
-    font-family: 'Univers';
+    font-family: 'Univers', Helvetica, sans-serif;
     color: #081182;
     line-height: 1.5em;
 }
@@ -527,7 +527,7 @@ h5 {
 
 .filter-p {
     color: #9bb4f9;
-    font-family: 'Univers-Bold';
+    font-family: 'Univers-Bold', Helvetica, sans-serif;
     font-size: 1.05em;
     letter-spacing: 0.01em;
 }
@@ -596,7 +596,7 @@ h5 {
 /*///////// FOOTER P /////////*/
 
 .footer-p {
-    font-family: 'Univers';
+    font-family: 'Univers', Helvetica, sans-serif;
 }
 
 @media only screen and (max-width: 768px) {
