@@ -30,85 +30,21 @@ layout: default
     <!--ALL PUBLICATIONS-->
 
     <div class="main-publications-container">
+
         <!--JOURNAL ARTICLES-->
-
+        {% for publication in site.publications %}
         <div class="publications-container row justify-content-between">
-           
+
             <div class='publications-div-h1 col-md-5'>
-                <h1>Journal Papers</h1>
+                <h1>{{ publication.title }}</h1>
             </div>
 
             <div class='publications-text-div col-md-7'>
-
-                {% for journal in site.publications %}
-                <div class='publications-list'>
-                    {{ journal.content }}
-                </div>
-                {% endfor %}
-            </div>
-           
-        </div>
-
-        <!--CONFERENCE PROCEEDINGS-->
-        <div class="publications-container row justify-content-between">
-            <div class='publications-div-h1 col-md-5'>
-                <h1>Conference Proceedings</h1>
-            </div>
-
-            <div class='publications-text-div col-md-7'>
-                <ol class='publications-list'>
-                    <li>Chagarov E.; <b>Sardashti, K.</b>; Kwak, I.; Ueda, S.; Yakimov, M.; Kummel A.C. “Density
-                        functional theory molecular dynamics simulations and experimental measurements of
-                        a-HfO2/a-SiO/SiGe(001) and a-HfO2/a-SiO2/SiGe(001) interfaces”,
-                        <b>2017
-                            International Symposium on VLSI Technology, Systems and Application (VLSI-TSA)</b> pp. 1-2
-                        (2017).</li>
-                    <li>
-                        Chagarov E.; <b>Sardashti, K.</b>; Clemons M.S.; Edmonds M.; Kummel A.C. “Density Functional
-                        Theory Simulations and Experimental Measurements of a-HfO2/a-Si3N4/SiGe, a-HfO2/SiO0.8N0.8/SiGe
-                        and a-HfO2/a-SiO/SiGe interfaces”, <b>2016
-                            IEEE International Electron Devices Meeting (IEDM)</b> pp. 36.4.1-36.4.4 (2016).
-                    </li>
-                </ol>
+                {{ publication.content }}
             </div>
         </div>
+        {% endfor %}
 
-        <!--BOOK CHAPTERS-->
-        <div class="publications-container row justify-content-between">
-            <div class='publications-div-h1 col-md-5'>
-                <h1>Book Chapters</h1>
-            </div>
-
-            <div class='publications-text-div col-md-7'>
-                <ol class='publications-list'>
-                    <li>Muhammad Y. Bashouti, Matthias Pietsch, <b>Kasra Sardashti</b>, Jüergen Ristein, Hossam Haick,
-                        Silke Christiansen <i>“Hybrid Silicon Nanowire: From Basic Science to Applied Nanotechnology”,
-                            <b>Nanowires - Recent Advances</b></i>, INTECH
-                        OPEN, ISBN 980-953-307-525-4.</li>
-                </ol>
-            </div>
-        </div>
-
-        <!--PATENTS-->
-        <div id="patents-container" class="publications-container row justify-content-between">
-            <div class='publications-div-h1 col-md-5'>
-                <h1>Patents</h1>
-            </div>
-
-            <div class='publications-text-div col-md-7'>
-                <ol class='publications-list'>
-                    <li><b>Sardashti K.</b>; Shabani, J.; “Systems and Methods for Qubit Fabrication”, <b>U.S.
-                            Provisional Application Serial No. 62/832,779.</b></li>
-                    <li><b>Sardashti K.</b>; Clemons, M.; Ueda, S.T.; Kavrik, M.S.; Kwak, I.; Kummel A.C. “Nanolaminate
-                        Dielectrics and ALD Deposition on Silicon Germanium Substrates”, <b>U.S. Provisional Application
-                            Serial No. 62/415,074.</b></li>
-                    <li>Kwak, I.; <b>Sardashti K.</b>; Kummel A.C. “Nanolaminate Dielectrics and ALD Deposition on 2D
-                        Substrates and 3D Materials”, <b>U.S. Provisional Application Serial No. 62/429,938.</b></li>
-                    <li><b>Sardashti K.</b>; Kaufman-Osborn, T.; Kent, T.; Kummel A.C. “Low Temperature Atomic Layer
-                        Deposition of Al2O3 and HfO2 on Silicon-Germanium”, <b>US Patent 20,160,056,033, 2016.</b></li>
-                </ol>
-            </div>
-        </div>
     </div>
 
 </body>
