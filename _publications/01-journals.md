@@ -2,13 +2,13 @@
 title: Journal Papers
 ---
 
-1.**Sardashti, K.**; Nguyen, D.T.; Dartiailh, M.C.; Shabani, J. “Superconducting Phases in Hyper P-doped Germanium”, in preparation.
+1.**Sardashti, K.**; Nguyen, D.T.; Mayer, W.; Yuan, J.; Dartiailh, M.C.; Shabani, J. “On the Nature of Superconductivity in Hyper Ga–doped Silicon”, in preparation.
 
-2.**Sardashti, K.**; Nguyen, D.T.; Mayer, W.; Yuan, J.; Dartiailh, M.C.; Shabani, J. “Superconductivity in hyper Ga–doped Silicon: Effect of implantation and anneal conditions on the superconducting phases”, in preparation.
+2.**Sardashti, K.**; Nguyen, D.T.; Sarney, W. L.; Leff, A. C.; Hatefipour, M.; Dartiailh, M.C.; Yuan, J.; Mayer, W.; Shabani, J. “Observation of Distinct Superconducting Phases in Hyperdoped p-type Germanium”, preprint available on arXiv.
 
-3.Mayer, W.; Thompson, J.P.; Dartiailh, M.C.; **Sardashti, K.**; Barati, F.; Wickramasinghe, K.; Taniguchi, T.; Watanabe, K.; Churchill, H.; Shabani, J.  “Tuning supercurrent in Josephson junctions using hBN as the gate dielectric”, in preparation.
+3.Mayer, W.; Thompson, J.P.; Dartiailh, M.C.; **Sardashti, K.**; Barati, F.; Wickramasinghe, K.; Taniguchi, T.; Watanabe, K.; Churchill, H.; Shabani, J.  “Tuning supercurrent in Josephson junctions using hBN as the gate dielectric”, preprint at arXiv:2006.08683.
 
-4.**Sardashti, K.**; Dartiailh, M.C.; Yuan, Joseph.; Hart, Sean.; Gumann, Pat.; Shabani, J. “Voltage Voltage-tunable superconducting resonators: a platform for random access quantum memory”, submitted to IEEE Transactions on Quantum Engineering, preprint available on arXiv.
+4.**Sardashti, K.**; Dartiailh, M.C.; Yuan, Joseph.; Hart, Sean.; Gumann, Pat.; Shabani, J. “Voltage Voltage-tunable superconducting resonators: a platform for random access quantum memory”, submitted to IEEE Transactions on Quantum Engineering, preprint at arXiv:2007.12202.
 
 5.Cuniberto, E.; Alharbi, A.; Wu, T.; Huang, Z.; **Sardashti, K.**; You. K. D.; Kisslinger, K.; Taniguchi, T.; Watanabe, K.; Kiani, R.; Shahrjerdi, D. “Design and fabrication of miniaturized electrochemical sensors using nano-graphitic carbon”, Scientific Reports 10, 9444 (2020).
 
