@@ -16,7 +16,7 @@ Yuan, J.; Hatefipour, M.; Magill, B.A.; Mayer, W.; Dartiailh, M.C.; **Sardashti,
 
 Khazaee M.; **Sardashti, K.**; Chung, C; Sun, JP; Zhou, H; Bergmann, E; Dunlap-Shohl, W.A.; Han, Q; Hill, I.G.; Jones, J.L; Lupascu, D.C.; Mitzi, D.B. “Dual-Source Evaporation of Silver Bismuth Iodide Films for Planar Junction Solar Cells”, Journal of Materials Chemistry A 7 (2019).
 
-Iljo, K; Sardashti, K; Clemons, M.S.; Ueda, S.T.; Fruhberger, B.; Oktyabrsky, S; Kummel, A.C. “HfO2/Al2O3 Nanolaminate on Si0.7Ge0.3(100) Surface by Thermal Atomic Layer Deposition”, ECS Transactions 86, 7, (2018).
+Iljo, K; **Sardashti, K**; Clemons, M.S.; Ueda, S.T.; Fruhberger, B.; Oktyabrsky, S; Kummel, A.C. “HfO2/Al2O3 Nanolaminate on Si0.7Ge0.3(100) Surface by Thermal Atomic Layer Deposition”, ECS Transactions 86, 7, (2018).
 
 Khazaee, M.; **Sardashti, K.**; Sun, J.P.; Clegg, C.; Zhou, H.; Hill, I.G.; Jones, J.L.; Lupascu, D.C.; Mitzi, D.B. “A Versatile Thin-Film Deposition Method for Multidimensional Semiconducting Bismuth Halides”, Chemistry of Materials 30 (2018).
 
