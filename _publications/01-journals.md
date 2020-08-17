@@ -4,7 +4,7 @@ title: Journal Papers
 
 **Sardashti, K.**; Nguyen, D.T.; Mayer, W.; Yuan, J.; Dartiailh, M.C.; Shabani, J. “On the Nature of Superconductivity in Hyper Ga–doped Silicon”, in preparation.
 
-**Sardashti, K.**; Nguyen, D.T.; Sarney, W. L.; Leff, A. C.; Hatefipour, M.; Dartiailh, M.C.; Yuan, J.; Mayer, W.; Shabani, J. “Observation of Distinct Superconducting Phases in Hyperdoped p-type Germanium”, preprint available on arXiv.
+**Sardashti, K.**; Nguyen, D.T.; Sarney, W. L.; Leff, A. C.; Hatefipour, M.; Dartiailh, M.C.; Yuan, J.; Mayer, W.; Shabani, J. “Observation of Distinct Superconducting Phases in Hyperdoped p-type Germanium”, preprint available at arXiv:2008.06067.
 
 Mayer, W.; Thompson, J.P.; Dartiailh, M.C.; **Sardashti, K.**; Barati, F.; Wickramasinghe, K.; Taniguchi, T.; Watanabe, K.; Churchill, H.; Shabani, J.  “Tuning supercurrent in Josephson junctions using hBN as the gate dielectric”, preprint at arXiv:2006.08683.
 
