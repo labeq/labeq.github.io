@@ -27,12 +27,56 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    overflow-x: hidden
+    /* overflow-x: hidden; */
 }
 
-/* div {
-    border: red 1px solid;
-} */
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.row {
+    margin: 0px;
+    padding: 0px;
+}
+
+.col {
+    padding: 0px;
+    margin: 0px;
+}
+
+.col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9 {
+    margin: 0px;
+    padding: 0px;
+}
+
+@media (min-width: 992px) {
+    .col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9 {
+        margin: 0px;
+        padding: 0px;
+    }
+}
+
+@media (min-width: 768px) {
+    .col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9 {
+        margin: 0px;
+        padding: 0px;
+    }
+}
+
+@media (min-width: 576px)) {
+    .col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9 {
+        margin: 0px;
+        padding: 0px;
+    }
+}
+
+@media (min-width: 576px) {
+    .col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9 {
+        padding: 0px;
+        margin:0px;
+    }
+}
 
 .body-home {
     background-color: #3939c9;
@@ -150,73 +194,135 @@ h5 {
 
 /*///////// NAVBAR /////////*/
 
-.logo-img {
+img {
+    vertical-align: middle;
+}
+
+/* RESPONSIVE HAMBURGER MENU */
+
+.navbar {
+    font-size: 0.95em;
+    font-family: "Univers";
+    /* background-color: turquoise; */
+    /* border: 1px solid rgba(0, 0, 0, 0.2); */
+    padding-bottom: 10px;
+    margin-top: 4%;
+}
+
+.main-nav {
+    list-style-type: none;
+    display: none;
+}
+
+.nav-links, .logo {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.main-nav li {
+    text-align: center;
+    margin: 8px auto;
+}
+
+.logo {
+    display: inline-block;
     width: 6em;
+    margin-left: 2%;
 }
 
-.container-fluid{
-    padding-right:0px;
-    padding-left:0px;
+.navbar-toggle {
+    position: absolute;
+    top: 0px;
+    right: 20px;
+    cursor: pointer;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 1.5em;
 }
 
-/* @media (min-width: 992px) {
-    .container-fluid {
-        padding-right: 0px;
-        padding-left: 0px;
+.active {
+    display: block;
+    padding-bottom: 2%;
+    border-bottom: 1px solid #3939c9;
+}
+
+
+
+@media screen and (min-width: 1080px) {
+    .navbar {
+        display: inline;
+        /* display: flex; */
+        justify-content: space-between;
+        padding-bottom: 0;
+        /* height: 70px; */
+        align-items: center;
+    }
+    .main-nav {
+        display: inline-flex;
+        /* display: flex; */
+        margin-left: 30px;
+        flex-direction: row;
+        justify-content: flex-end;
+        margin-top: 3em;
+        right:0;
+        width: 80vw;
+    }
+    .main-nav li {
+        margin: 8px auto;
+        /* border-bottom: 1px solid #9bb4f9; */
+    }
+    .nav-links {
+        margin-left: 30px;
+    }
+    .logo {
+        /* margin-top: 1em; */
+        display: inline-flex;
+    }
+    .navbar-toggle {
+        display: none;
+    }
+    .logo:hover, .nav-links:hover {
+        color: rgba(255, 255, 255, 1);
     }
 }
 
-@media (min-width: 576px) {
-    .container-fluid {
-        padding-right: 0px;
-        padding-left: 0px;
-    }
-} */
+/* CSS BOOTSTRAP NAVBAR RESET*/
 
-@media only screen and (max-width: 992px) {
-    .logo-container {
-        padding-bottom: 2%;
-    }
+.navbar-inner, .navbar-fixed-top .navbar-inner, .navbar-fixed-bottom .navbar-inner, .navbar-static-top .navbar-inner {
+    background: none;
+    border: none;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    filter: none;
+    padding: 0;
 }
 
-.nav-container {
-    padding: 4%;
-    margin: 0%;
-    /* background-color: #405ef4; */
+.navbar {
+    margin-bottom: 0;
 }
 
-.nav-p {
-    font-family: 'Univers', Helvetica, sans-serif;
-    color: #d7e2f9;
-    text-align: right;
-    font-size: 1em;
-    letter-spacing: 0.01em;
+.navbar .nav {
+    margin: 0;
 }
 
-.nav-p>a, .nav-p>a:active, .nav-p>a:visited {
-    color: #d7e2f9;
-    text-decoration: none;
+.navbar .brand, .navbar .nav>li>a {
+    margin: 0;
+    padding: 0;
+    text-shadow: none;
 }
 
-.nav-p>a:hover {
-    color: #d7e2f966;
-    text-decoration: none;
-}
-
-@media only screen and (max-width: 992px) {
-    .nav-p {
-        text-align: left;
-    }
-}
-
-@media only screen and (min-width: 992px) {
-    .nav-p {
-        text-align: right;
-    }
-}
-
-.logo-img:hover {
-    opacity: 0.3;
+.navbar .btn-navbar, .navbar .btn-navbar:hover {
+    background: none;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    margin: 0;
+    padding: 0;
+    text-shadow: none;
 }
 
 /*/////////////////~/~/~/~/~/~/~/~/~/HOME PAGE/~/~/~/~/~/~/~/~/~/////////////////*/
@@ -280,17 +386,17 @@ h5 {
 .home-bottom-container {
     background-color: #405ef4;
     padding: 0%;
-    width: 110%;
+    width: 100%;
 }
 
 .bottom-div-img {
     position: relative;
     float: left;
-    left: -5vw;
+    left: 0;
 }
 
 .bottom-img {
-    width: 110%;
+    width: 100%;
 }
 
 /*/////////////////~/~/~/~/~/~/~/~/~/FACILITIES PAGE/~/~/~/~/~/~/~/~/~/////////////////*/
@@ -384,7 +490,7 @@ h5 {
 }
 
 .shared-text-div {
-    padding: 4% 0;
+    margin: 4% 0;
 }
 
 /*/////////////////~/~/~/~/~/~/~/~/~/PEOPLE PAGE/~/~/~/~/~/~/~/~/~/////////////////*/
@@ -590,7 +696,6 @@ h5 {
     border-bottom: 1px solid #405ef4;
 } */
 
-
 /*/////////////////~/~/~/~/~/~/~/~/~/ FOOTER /~/~/~/~/~/~/~/~/~/////////////////*/
 
 .footer-container {
@@ -647,6 +752,6 @@ h5 {
     text-decoration: none;
 }
 
-.clemson-logo{
+.clemson-logo {
     width: 12em;
 }
