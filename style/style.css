@@ -219,6 +219,11 @@ img {
     color: rgba(255, 255, 255, 0.7);
 }
 
+.nav-links:hover{
+    color: #405ef4;
+    text-decoration: none;
+}
+
 .main-nav li {
     text-align: center;
     margin: 8px auto;
@@ -242,7 +247,7 @@ img {
 .active {
     display: block;
     padding-bottom: 2%;
-    border-bottom: 1px solid #3939c9;
+    border-bottom: 1px solid #d7e2f9;
 }
 
 
