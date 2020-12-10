@@ -2,7 +2,7 @@
 title: Journal Papers
 ---
 
-**Sardashti, K.**; Nguyen, D.T.;  Hatefipour, M.; Sarney, W. L.; Yuan, J.; Mayer, W.; Kisslinger, K.; Shabani, J. “Tailoring Superconducting Phases Observed in Hyperdoped Si:Ga for Cryogenic Circuit Applications”, preprint available on arXiv.
+**Sardashti, K.**; Nguyen, D.T.;  Hatefipour, M.; Sarney, W. L.; Yuan, J.; Mayer, W.; Kisslinger, K.; Shabani, J. “Tailoring Superconducting Phases Observed in Hyperdoped Si:Ga for Cryogenic Circuit Applications”, preprint available at arXiv:2012.04748.
 
 **Sardashti, K.**; Nguyen, D.T.; Sarney, W. L.; Leff, A. C.; Hatefipour, M.; Dartiailh, M.C.; Yuan, J.; Mayer, W.; Shabani, J. “Observation of Distinct Superconducting Phases in Hyperdoped p-type Germanium”, preprint available at arXiv:2008.06067.
 
