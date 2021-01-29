@@ -6,9 +6,9 @@ Yuan, J.; Wickramasinghe, K.; Strickland, W.; Dartiailh, M.; **Sardashti, K.**; 
 
 Zhu, T.; Dartiailh, M.C.; **Sardashti, K.**; Han, J. E.; Matos-Abiague, A.; Shabani, J.; Zútic, I. “Fusion of Majorana Bound States with Mini Gate Control in Two-Dimensional Systems”, preprint available at arXiv:2101.09272.
 
-**Sardashti, K.**; Nguyen, D.T.;  Hatefipour, M.; Sarney, W. L.; Yuan, J.; Mayer, W.; Kisslinger, K.; Shabani, J. “Tailoring Superconducting Phases Observed in Hyperdoped Si:Ga for Cryogenic Circuit Applications”, preprint available at arXiv:2012.04748.
-
 **Sardashti, K.**; Nguyen, D.T.; Sarney, W. L.; Leff, A. C.; Hatefipour, M.; Dartiailh, M.C.; Yuan, J.; Mayer, W.; Shabani, J. “Observation of Distinct Superconducting Phases in Hyperdoped p-type Germanium”, preprint available at arXiv:2008.06067.
+
+**Sardashti, K.**; Nguyen, D.T.;  Hatefipour, M.; Sarney, W. L.; Yuan, J.; Mayer, W.; Kisslinger, K.; Shabani, J. “Tailoring Superconducting Phases Observed in Hyperdoped Si:Ga for Cryogenic Circuit Applications”, accepted for publication in *Applied Physics Letters*, preprint available at arXiv:2012.04748.
 
 Mayer, W.; Thompson, J.P.; Dartiailh, M.C.; **Sardashti, K.**; Barati, F.; Wickramasinghe, K.; Taniguchi, T.; Watanabe, K.; Churchill, H.; Shabani, J.  “Tuning supercurrent in Josephson junctions using hBN as the gate dielectric”, accepted for publication in *Nano Letters*, preprint available at arXiv:2006.08683.
 
