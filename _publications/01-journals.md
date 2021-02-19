@@ -8,11 +8,11 @@ Zhu, T.; Dartiailh, M.C.; **Sardashti, K.**; Han, J. E.; Matos-Abiague, A.; Shab
 
 **Sardashti, K.**; Nguyen, D.T.; Sarney, W. L.; Leff, A. C.; Hatefipour, M.; Dartiailh, M.C.; Yuan, J.; Mayer, W.; Shabani, J. “Observation of Distinct Superconducting Phases in Hyperdoped p-type Germanium”, preprint available at arXiv:2008.06067.
 
-**Sardashti, K.**; Nguyen, D.T.;  Hatefipour, M.; Sarney, W. L.; Yuan, J.; Mayer, W.; Kisslinger, K.; Shabani, J. “Tailoring Superconducting Phases Observed in Hyperdoped Si:Ga for Cryogenic Circuit Applications”, accepted for publication in *Applied Physics Letters*, preprint available at arXiv:2012.04748.
+**Sardashti, K.**; Nguyen, D.T.;  Hatefipour, M.; Sarney, W. L.; Yuan, J.; Mayer, W.; Kisslinger, K.; Shabani, J. “Tailoring Superconducting Phases Observed in Hyperdoped Si:Ga for Cryogenic Circuit Applications”, Applied Physics Letters 118, 073102 (2021).
 
 Mayer, W.; Thompson, J.P.; Dartiailh, M.C.; **Sardashti, K.**; Barati, F.; Wickramasinghe, K.; Taniguchi, T.; Watanabe, K.; Churchill, H.; Shabani, J.  “Tuning supercurrent in Josephson junctions using hBN as the gate dielectric”, accepted for publication in *Nano Letters*, preprint available at arXiv:2006.08683.
 
-**Sardashti, K.**; Dartiailh, M.C.; Yuan, Joseph.; Hart, Sean.; Gumann, Pat.; Shabani, J. “Voltage Voltage-tunable superconducting resonators: a platform for random access quantum memory”, IEEE Transactions on Quantum Engineering 1 (2020) p.1-7, preprint available at arXiv:2007.12202.
+**Sardashti, K.**; Dartiailh, M.C.; Yuan, Joseph.; Hart, Sean.; Gumann, Pat.; Shabani, J. “Voltage Voltage-tunable superconducting resonators: a platform for random access quantum memory”, IEEE Transactions on Quantum Engineering 1 (2020) p.1-7.
 
 Cuniberto, E.; Alharbi, A.; Wu, T.; Huang, Z.; **Sardashti, K.**; You. K. D.; Kisslinger, K.; Taniguchi, T.; Watanabe, K.; Kiani, R.; Shahrjerdi, D. “Design and fabrication of miniaturized electrochemical sensors using nano-graphitic carbon”, Scientific Reports 10, 9444 (2020).
 
