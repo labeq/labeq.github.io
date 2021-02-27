@@ -10,7 +10,7 @@ Zhu, T.; Dartiailh, M.C.; **Sardashti, K.**; Han, J. E.; Matos-Abiague, A.; Shab
 
 **Sardashti, K.**; Nguyen, D.T.;  Hatefipour, M.; Sarney, W. L.; Yuan, J.; Mayer, W.; Kisslinger, K.; Shabani, J. “Tailoring Superconducting Phases Observed in Hyperdoped Si:Ga for Cryogenic Circuit Applications”, Applied Physics Letters 118, 073102 (2021).
 
-Mayer, W.; Thompson, J.P.; Dartiailh, M.C.; **Sardashti, K.**; Barati, F.; Wickramasinghe, K.; Taniguchi, T.; Watanabe, K.; Churchill, H.; Shabani, J.  “Tuning supercurrent in Josephson junctions using hBN as the gate dielectric”, accepted for publication in *Nano Letters*, preprint available at arXiv:2006.08683.
+Mayer, W.; Thompson, J.P.; Dartiailh, M.C.; **Sardashti, K.**; Barati, F.; Wickramasinghe, K.; Taniguchi, T.; Watanabe, K.; Churchill, H.; Shabani, J.  “Tuning supercurrent in Josephson junctions using hBN as the gate dielectric”, Nano Letters (2021).
 
 **Sardashti, K.**; Dartiailh, M.C.; Yuan, Joseph.; Hart, Sean.; Gumann, Pat.; Shabani, J. “Voltage Voltage-tunable superconducting resonators: a platform for random access quantum memory”, IEEE Transactions on Quantum Engineering 1 (2020) p.1-7.
 
