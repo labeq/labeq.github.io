@@ -2,15 +2,15 @@
 title: Journal Papers
 ---
 
-Yuan, J.; Wickramasinghe, K.; Strickland, W.; Dartiailh, M.; **Sardashti, K.**; Barati, F.; Hatefipour, M.; Shabani, J. “Epitaxial Superconductor-Semiconductor Structures for Tunable Quantum Circuits”, *submitted for publication*.
-
 Zhu, T.; Dartiailh, M.C.; **Sardashti, K.**; Han, J. E.; Matos-Abiague, A.; Shabani, J.; Zútic, I. “Fusion of Majorana Bound States with Mini Gate Control in Two-Dimensional Systems”, preprint available at arXiv:2101.09272.
 
 **Sardashti, K.**; Nguyen, D.T.; Sarney, W. L.; Leff, A. C.; Hatefipour, M.; Dartiailh, M.C.; Yuan, J.; Mayer, W.; Shabani, J. “Observation of Distinct Superconducting Phases in Hyperdoped p-type Germanium”, preprint available at arXiv:2008.06067.
 
+Yuan, J.; Wickramasinghe, K.; Strickland, W.; Dartiailh, M.; **Sardashti, K.**; Barati, F.; Hatefipour, M.; Shabani, J. “Epitaxial Superconductor-Semiconductor Structures for Tunable Quantum Circuits”, Journal of Vacuum Science & Technology A 39, 033407 (2021).
+
 **Sardashti, K.**; Nguyen, D.T.;  Hatefipour, M.; Sarney, W. L.; Yuan, J.; Mayer, W.; Kisslinger, K.; Shabani, J. “Tailoring Superconducting Phases Observed in Hyperdoped Si:Ga for Cryogenic Circuit Applications”, Applied Physics Letters 118, 073102 (2021).
 
-Barati, F.; Thompson, J.P.; Dartiailh, M.C.; **Sardashti, K.**; Mayer, W.; Wickramasinghe, K.; Taniguchi, T.; Watanabe, K.; Churchill, H.; Shabani, J.  “Tuning supercurrent in Josephson junctions using hBN as the gate dielectric”, Nano Letters (2021).
+Barati, F.; Thompson, J.P.; Dartiailh, M.C.; **Sardashti, K.**; Mayer, W.; Wickramasinghe, K.; Taniguchi, T.; Watanabe, K.; Churchill, H.; Shabani, J.  “Tuning supercurrent in Josephson junctions using hBN as the gate dielectric”, Nano Letters 21,1915–1920 (2021).
 
 **Sardashti, K.**; Dartiailh, M.C.; Yuan, Joseph.; Hart, Sean.; Gumann, Pat.; Shabani, J. “Voltage Voltage-tunable superconducting resonators: a platform for random access quantum memory”, IEEE Transactions on Quantum Engineering 1 (2020) p.1-7.
 
