@@ -4,7 +4,7 @@ title: Journal Papers
 
 Zhu, T.; Dartiailh, M.C.; **Sardashti, K.**; Han, J. E.; Matos-Abiague, A.; Shabani, J.; Zútic, I. “Fusion of Majorana Bound States with Mini Gate Control in Two-Dimensional Systems”, preprint available at arXiv:2101.09272.
 
-**Sardashti, K.**; Nguyen, D.T.; Sarney, W. L.; Leff, A. C.; Hatefipour, M.; Dartiailh, M.C.; Yuan, J.; Mayer, W.; Shabani, J. “Observation of Distinct Superconducting Phases in Hyperdoped p-type Germanium”, preprint available at arXiv:2008.06067.
+**Sardashti, K.**; Nguyen, D.T.; Sarney, W. L.; Leff, A. C.; Hatefipour, M.; Dartiailh, M.C.; Yuan, J.; Mayer, W.; Shabani, J. “Observation of Distinct Superconducting Phases in Hyperdoped p-type Germanium”, preprint available at arXiv:2008.06067, Accepted for publication in Physical Review Materials.
 
 Yuan, J.; Wickramasinghe, K.; Strickland, W.; Dartiailh, M.; **Sardashti, K.**; Barati, F.; Hatefipour, M.; Shabani, J. “Epitaxial Superconductor-Semiconductor Structures for Tunable Quantum Circuits”, Journal of Vacuum Science & Technology A 39, 033407 (2021).
 
